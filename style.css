@@ -1,0 +1,27 @@
+header{
+    display: block;
+    background-color: darkgrey;
+
+}
+nav li{
+    display: inline-block;
+    padding: 10px;
+    background-color: lightgray;
+}
+.side-nav{
+    float: left;
+    width: 29%;
+    background-color: darkorange;
+    height: 700px;
+}
+.content{
+    float: right;
+    width: 70%;
+    background-color: aquamarine;
+    height: 700px;
+    
+}
+.pet-photo{
+    background-color: orange;
+    height: 250px;
+}
